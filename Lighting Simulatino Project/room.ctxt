@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=room
+comment1.params=
+comment1.target=room()
+comment2.params=width\ length
+comment2.target=int\ getArea(int,\ int)
+comment3.params=unit\ brightness
+comment3.target=double\ getALL(java.lang.String,\ java.lang.String)
+numComments=4

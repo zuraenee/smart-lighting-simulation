@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=garage
+comment1.params=
+comment1.target=garage()
+comment2.params=unit\ brightness
+comment2.target=double\ getFCORLUX(java.lang.String,\ java.lang.String)
+numComments=3
