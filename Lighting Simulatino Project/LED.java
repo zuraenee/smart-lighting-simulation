@@ -8,7 +8,7 @@ public class LED extends bulb
     protected double lumensperwatts = 0;
     
     public LED(){
-        this.totalwatts = 100;
+        this.totalwatts = 10;
     }
     public double getTotalWatts(double lumens){
         if (lumens <= 300){
